@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-> EzCopyrightViewTool::Renderer.copyright(name, message)
+```ruby
+EzCopyrightViewTool::Renderer.copyright(name, message)
+```
 
 ## Development
 
